@@ -198,12 +198,6 @@ def process_story(story):
         story_details = extract_story_details(story)
         insert_story_into_db(story_details)
 
-# Example usage
-'''new_story = """
-On 2024-08-25 in State1, a case of theft was reported. 
-The thief stole valuable items from a high-end store.
-"""
-process_story(new_story)'''
 
 
 # In[5]:

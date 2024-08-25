@@ -4,55 +4,55 @@
 # In[1]:
 
 
-pip install google-api-python-client youtube-transcript-api transformers torch sqlalchemy
+#pip install google-api-python-client youtube-transcript-api transformers torch sqlalchemy
 
 
 # In[2]:
 
 
-pip install google-api-python-client
+#pip install google-api-python-client
 
 
 # In[3]:
 
 
-pip install google-auth google-auth-oauthlib google-auth-httplib2
+#pip install google-auth google-auth-oauthlib google-auth-httplib2
 
 
 # In[4]:
 
 
-pip install pytube
+#pip install pytube
 
 
 # In[1]:
 
 
-pip install google-cloud-speech
+#pip install google-cloud-speech
 
 
 # In[2]:
 
 
-pip install pydub
+#pip install pydub
 
 
 # In[23]:
 
 
-pip install --upgrade pytube
+#pip install --upgrade pytube
 
 
 # In[2]:
 
 
-pip install yt-dlp
+#pip install yt-dlp
 
 
 # In[23]:
 
 
-pip install pytube assemblyai
+#pip install pytube assemblyai
 
 
 # In[1]:

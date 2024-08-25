@@ -96,7 +96,7 @@ create_database()
 # In[1]:
 
 
-pip install sqlite3 transformers torch
+#pip install sqlite3 transformers torch
 
 
 # In[12]:

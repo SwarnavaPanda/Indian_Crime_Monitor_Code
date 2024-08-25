@@ -6,9 +6,10 @@ sqlalchemy
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
+pydub
 yt-dlp
 google-cloud-speech
-pydub
+pytube
 assemblyai
+sqlite3
 streamlit
-

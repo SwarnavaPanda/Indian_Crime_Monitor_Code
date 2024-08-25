@@ -1,0 +1,12 @@
+google-api-python-client
+youtube-transcript-api
+transformers
+torch
+sqlalchemy
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+yt-dlp
+google-cloud-speech
+pytube
+assemblyai
